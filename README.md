@@ -1,2 +1,2 @@
 # doom-fire
-doom`s fire algorithm
+doom's fire algorithm studies
